@@ -1,0 +1,20 @@
+Q01	What are the risk of Breast cancer.
+Q02	Where are the Forts and temples in Tamil Nadu?
+Q03	Science fiction of superheroes and superpowers.
+Q04	Where is the church of Jesus Christ of latter-day Saints
+Q05	Who is Chera, Chola, Pandyas
+Q06	The Arjuna is a Pandava King.
+Q07	Brain and its neural network.
+Q08	What is Mathematics-Boolean Logic?
+Q09	Which are villages in Karnataka
+Q10	Why is Adolf Hitler leader of German Nazi?
+Q11	Are hepatitis, polyendocrine syndrome, adrenalitis some of the autoimmune diseases?
+Q12	Where is National Institute of Neurological Disorders and Stroke ?
+Q13	Mathematics of Euclidean geometry.
+Q14	What is algebraic number theory in mathematics?
+Q15	Sections of sauti stories in Astika Parva of the Adi Parva.
+Q16	Articles from The International Organization for Standardization
+Q17	King Ravana! the king of Lanka and the warrior!
+Q18	Artifical neural network and machine learning.
+Q19	Having suicidal thoughts?
+Q20	Covid19 and its treatment
